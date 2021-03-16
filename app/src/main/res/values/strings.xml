@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Githubs User\'s</string>
+    <string name="text_repositories">Repositories</string>
+    <string name="text_followers">Followers</string>
+    <string name="text_following">Following</string>
+    <string name="text_about_name">Deden Muhamad Furqon</string>
+    <string name="text_about_email">Furqoncreative24@gmail.com</string>
+    <string name="text_search">Search</string>
+    <string name="text_about">About</string>
+    <string name="text_todo">TODO</string>
+    <string name="text_detail_user">Detail User</string>
+</resources>
